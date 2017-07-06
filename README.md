@@ -3,4 +3,5 @@ A simple tile based snake game
 
 ### Controls
 
-Control Mr. Nakes with arrow keys.
+* Star game by pressing ENTER key.
+* Control Mr. Nakes with arrow keys.
