@@ -1,0 +1,9 @@
+start/stop/pause options
+scoreboard
+Space input for spped up
+apple sprite
+collision screen flash
+joystick input with vibration feedback
+responsive ui
+blinking head
+frame rate independent gameplay
