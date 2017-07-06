@@ -5,3 +5,10 @@
     margin: 0 auto;
     display: block;
 }
+
+.help-text
+{
+    text-align: center;
+    margin: 2px auto;
+    display: block;
+}

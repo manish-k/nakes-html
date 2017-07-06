@@ -126,7 +126,7 @@
                 this.running = true;
             }
             if(Game.keyCodes.SPACE[evt.keyCode]){
-                this.running = false;
+                this.running = !this.running;
             }
             if(Game.keyCodes.ESC[evt.keyCode]){
                 this.running = false;
